@@ -1,4 +1,4 @@
 # Omsimka.github.io
-Francis Fei Warren Albino
+*Francis Fei Warren Albino*
 
-LG Brebeuf
+**9 - Brebeuf**
