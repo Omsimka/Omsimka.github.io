@@ -16,3 +16,7 @@
 | Monday | Tuesday | Wednesday| Thursday | Friday |
 |--------|---------|----------|----------|--------|
 | One Piece | Hunter x Hunter| Demon Slayer | Jujutsu Kaisen | Attack on Titan |
+
+Luffy 🥶
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZFlu6EHFL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
