@@ -1,6 +1,6 @@
 Francis Fei Warren A. Albino
 
-| My Favorite Animes|
+| My Favorite Animes |
 | One Piece | Jujutsu Kaisen | Chainsaw Man | Demon Slayer |
 |-----------|----------------|--------------|--------------|
 
